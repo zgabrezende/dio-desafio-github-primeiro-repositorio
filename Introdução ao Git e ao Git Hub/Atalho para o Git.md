@@ -36,7 +36,7 @@ git commit -m + “mensagem” – **Fazer o git criptografar as mudanças e men
 
 git remote add origin + link do repositório – **Adicionar a origem o repositório da nuvem no meu trabalho**
 
-git push origin master – **Enviar o trabalho para nuvem**
+git push origin master ou main – **Enviar o trabalho para nuvem**
 
 git pull origin master – **Puxar o trabalho da nuvem para a máquina local**
 
